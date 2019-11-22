@@ -36,7 +36,7 @@ main {
 }
 
 .cover-image {
-    background: url("back4.jpg") transparent repeat 0 0;
+    background: url("./back4.jpg") transparent repeat 0 0;
     background-size: cover;
 }
 
